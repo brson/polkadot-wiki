@@ -255,7 +255,7 @@ design of the EVM. Namely these are:
 
 You will likely want to set up a local test environment to start writing your smart contracts. This
 can be done using a Substrate node with one of the two smart contracts pallets including. After
-development you will want to look into projects such as [Edgware])(#edgeware) for deploying your
+development you will want to look into projects such as [Edgware](#edgeware) for deploying your
 smart contract to a live environment.
 
 ### Edgeware
